@@ -10,3 +10,7 @@
 * Quelques explications
 
 Et si vous pouviez posséder un synthi pour une fraction de son prix ?
+
+* Schémas
+
+[[file:resources/external_parts.png][External Parts]]
