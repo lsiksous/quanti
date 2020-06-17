@@ -1,0 +1,12 @@
+# -*- Mode: org -*-
+# -*- coding: utf-8 -*-
+
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
+
+#+title: Synth-X
+
+
+* Quelques explications
+
+Et si vous pouviez posséder un synthi pour une fraction de son prix ?
