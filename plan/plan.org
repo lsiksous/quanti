@@ -1,0 +1,49 @@
+#+PROPERTY: Effort_ALL 2d 5d 10d 20d 30d 35d 50d
+#+COLUMNS: %70ITEM(Task) %Effort
+
+#+TITLE: Synth-X Project Plan
+
+* Synth-X                                               :taskjuggler_project:
+** Specification
+*** A
+*** B
+*** C
+*** Matrix & 3D
+*** Flight Case
+** Supply Chain
+*** BOM
+** Building
+** Testing
+** Marketing
+** Milestones
+*** Project start
+    :PROPERTIES:
+    :task_id:  start
+    :END:
+*** Technology Preview
+    :PROPERTIES:
+    :BLOCKER:  back_end
+    :END:
+*** Beta version
+    :PROPERTIES:
+    :BLOCKER:  alpha
+    :END:
+*** Ship Product to Customer
+    :PROPERTIES:
+    :BLOCKER:  beta manual
+    :END:
+
+* Resources                                         :taskjuggler_resource:
+** Developers
+   :PROPERTIES:
+   :resource_id: dev
+   :END:
+*** François Goujon
+    :PROPERTIES:
+    :resource_id: pjmn
+    :END:
+*** Laurent Siksous
+    :PROPERTIES:
+    :resource_id: lss
+    :END:
+** Others

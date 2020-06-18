@@ -1,0 +1,50 @@
+project nil "Synth-X" "1.0" 2020-06-18 +280d {
+}
+shift s40 "Part time shift" {
+  workinghours wed, thu, fri off
+}
+resource dev "Developers" {
+  resource pjmn "François Goujon" {
+  }
+  resource lss "Laurent Siksous" {
+  }
+}
+resource others "Others" {
+}
+task synth_x "Synth-X" {
+  purge allocate
+  allocate developers
+  milestone
+}
+textreport report "Plan" {
+  formats html
+  header '== Synth-X Project Plan =='
+
+  center -8<-
+    [#Plan Plan] | [#Resource_Allocation Resource Allocation]
+    ----
+    === Plan ===
+    <[report id="plan"]>
+    ----
+    === Resource Allocation ===
+    <[report id="resourceGraph"]>
+  ->8-
+}
+
+# A traditional Gantt chart with a project overview.
+taskreport plan "" {
+  headline "Project Plan"
+  columns bsi, name, start, end, effort, chart
+  loadunit shortauto
+  hideresource 1
+}
+
+# A graph showing resource allocation. It identifies whether each
+# resource is under- or over-allocated for.
+resourcereport resourceGraph "" {
+  headline "Resource Allocation Graph"
+  columns no, name, effort, weekly
+  loadunit shortauto
+  hidetask ~(isleaf() & isleaf_())
+  sorttasks plan.start.up
+}

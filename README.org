@@ -6,8 +6,8 @@
 
 #+title: Synth-X
 
-* Spécifications
-** [[http://pjmnc.free.fr/synthi/cable.bmp][/wiring/]]\\
+* Specifications
+  [[http://pjmnc.free.fr/synthi/cable.bmp][/wiring/]]\\
 ** ***A***\\
 *** [[http://pjmnc.free.fr/synthi/A_patch.bmp][/A\_patch/]]\\
 *** [[http://pjmnc.free.fr/synthi/A_silk_NVB.png][/A\_silk/]]\\
@@ -56,19 +56,19 @@
 *** [[http://pjmnc.free.fr/synthi/matrix/support_matrix.PNG][/gabarit matrix PNG/]]\\
 *** [[http://pjmnc.free.fr/synthi/matrix/20_support%20matrix_3mm.zip][/gabarit matrix STL/]]\\
 ** ***autres***\\
-** ***synthi MIDI***
-   [[http://pjmnc.free.fr/files/midiCVsynthi.zip][synthi\_AKS.zip]].....Synthi AKS midi or CV project.....(schematic + code)
-[[http://pjmnc.free.fr/files/cvSynthi_4725.JPG][/schematic/-]][[http://pjmnc.free.fr/files/synthiModule.jpg][/module/]]\\
-** ***KS to eurorack***
-   [[http://pjmnc.free.fr/files/aks2cv.JPG][synthi\_KS.jpg]].....Synthi Keyboard --> CV/GATE eurorack 1v/oct.....(schematic)\\
-** ***midi et ks IMG***
-   [[http://pjmnc.free.fr/files/synthiModRecap.JPG][AKS\_modules.jpg]].....Synthi AKS Modules.....RECAP\\
-** ***pin matrix mod***
-   [[http://pjmnc.free.fr/files/pin_matrix_switch.JPG][synthi\_Pins.jpg]].....Synthi Pins Matrix switch.....(schematic)\\
-** ***presto patch interface***
-[[http://pjmnc.free.fr/files/synthi_presto.JPG][synthi\_presto\_patch.jpg]].....Synthi
-mods presto <---> eurorack.....(schematic)
-[[http://pjmnc.free.fr/files/_presto.JPG][/pict/-]]
-[[http://pjmnc.free.fr/files/presto_connectors.JPG][/pict/]]\\
+*** ***synthi MIDI***
+    [[http://pjmnc.free.fr/files/midiCVsynthi.zip][synthi\_AKS.zip]].....Synthi AKS midi or CV project.....(schematic + code)
+ [[http://pjmnc.free.fr/files/cvSynthi_4725.JPG][/schematic/-]][[http://pjmnc.free.fr/files/synthiModule.jpg][/module/]]\\
+*** ***KS to eurorack***
+    [[http://pjmnc.free.fr/files/aks2cv.JPG][synthi\_KS.jpg]].....Synthi Keyboard --> CV/GATE eurorack 1v/oct.....(schematic)\\
+*** ***midi et ks IMG***
+    [[http://pjmnc.free.fr/files/synthiModRecap.JPG][AKS\_modules.jpg]].....Synthi AKS Modules.....RECAP\\
+*** ***pin matrix mod***
+    [[http://pjmnc.free.fr/files/pin_matrix_switch.JPG][synthi\_Pins.jpg]].....Synthi Pins Matrix switch.....(schematic)\\
+*** ***presto patch interface***
+ [[http://pjmnc.free.fr/files/synthi_presto.JPG][synthi\_presto\_patch.jpg]].....Synthi
+ mods presto <---> eurorack.....(schematic)
+ [[http://pjmnc.free.fr/files/_presto.JPG][/pict/-]]
+ [[http://pjmnc.free.fr/files/presto_connectors.JPG][/pict/]]\\
 
-* ---<<<-[[http://pjmnc.free.fr/index.htm][[:::|:|::]]]
+** ---<<<-[[http://pjmnc.free.fr/index.htm][[:::|:|::]]]
