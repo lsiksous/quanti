@@ -11,6 +11,10 @@
 
 Et si vous pouviez posséder un synthi pour une fraction de son prix ?
 
+* Quelques pistes
+
+http://pjmnc.free.fr/synthi.htm
+
 * Schémas
 
 [[file:resources/external_parts.png][External Parts]]
