@@ -27,12 +27,9 @@
 *** [[http://pjmnc.free.fr/synthi/bom.txt][/B.O.M/]]\\
 *** [[http://pjmnc.free.fr/synthi/calibrage.txt][/calibration/]]\\
 ** ***schem\_A***\\
-*** [[http://pjmnc.free.fr/synthi/schema/A_S1_main_pwr.png][/main
- power/]]\\
-*** [[http://pjmnc.free.fr/synthi/schema/A_S2_pwr.png][/power +12v/-9v
- /]]\\
-*** [[http://pjmnc.free.fr/synthi/schema/A_S3_op1_2.png][/output
- 1&2/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/A_S1_main_pwr.png][/main power/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/A_S2_pwr.png][/power +12v/-9v /]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/A_S3_op1_2.png][/output 1&2/]]\\
 *** [[http://pjmnc.free.fr/synthi/schema/A_S4_reverb.png][/reverb/]]\\
 ** ***schem\_B***\\
 *** [[http://pjmnc.free.fr/synthi/schema/B_S1_EG.png][/eg/]]\\
@@ -73,4 +70,5 @@
 mods presto <---> eurorack.....(schematic)
 [[http://pjmnc.free.fr/files/_presto.JPG][/pict/-]]
 [[http://pjmnc.free.fr/files/presto_connectors.JPG][/pict/]]\\
----<<<-[[http://pjmnc.free.fr/index.htm][[:::|:|::]]]
+
+* ---<<<-[[http://pjmnc.free.fr/index.htm][[:::|:|::]]]
