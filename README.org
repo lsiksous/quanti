@@ -9,83 +9,65 @@
 * Spécifications
 ** [[http://pjmnc.free.fr/synthi/cable.bmp][/wiring/]]\\
 ** ***A***\\
-** [[http://pjmnc.free.fr/synthi/A_patch.bmp][/A\_patch/]]\\
-** [[http://pjmnc.free.fr/synthi/A_silk_NVB.png][/A\_silk/]]\\
-** [[http://pjmnc.free.fr/synthi/A_code_NVB.png][/A\_code/]]\\
-** [[http://pjmnc.free.fr/synthi/A_PCB_NVB.bmp][/A\_PCB\_NVB/]]\\
+*** [[http://pjmnc.free.fr/synthi/A_patch.bmp][/A\_patch/]]\\
+*** [[http://pjmnc.free.fr/synthi/A_silk_NVB.png][/A\_silk/]]\\
+*** [[http://pjmnc.free.fr/synthi/A_code_NVB.png][/A\_code/]]\\
+*** [[http://pjmnc.free.fr/synthi/A_PCB_NVB.bmp][/A\_PCB\_NVB/]]\\
 ** ***B***\\
-** [[http://pjmnc.free.fr/synthi/B_patch.bmp][/B\_patch/]]\\
-** [[http://pjmnc.free.fr/synthi/B_silk.png][/B\_silk/]]\\
-** [[http://pjmnc.free.fr/synthi/B_code.png][/B\_code/]]\\
-** [[http://pjmnc.free.fr/synthi/B_PCB.bmp][/B\_PCB/]]\\
+*** [[http://pjmnc.free.fr/synthi/B_patch.bmp][/B\_patch/]]\\
+*** [[http://pjmnc.free.fr/synthi/B_silk.png][/B\_silk/]]\\
+*** [[http://pjmnc.free.fr/synthi/B_code.png][/B\_code/]]\\
+*** [[http://pjmnc.free.fr/synthi/B_PCB.bmp][/B\_PCB/]]\\
 ** ***C***\\
-** [[http://pjmnc.free.fr/synthi/C_patch.bmp][/C\_patch/]]\\
-** [[http://pjmnc.free.fr/synthi/C_silk.png][/C\_silk/]]\\
-** [[http://pjmnc.free.fr/synthi/C_code.png][/C\_code/]]\\
-** [[http://pjmnc.free.fr/synthi/C_PCB.bmp][/C\_PCB/]]\\
+*** [[http://pjmnc.free.fr/synthi/C_patch.bmp][/C\_patch/]]\\
+*** [[http://pjmnc.free.fr/synthi/C_silk.png][/C\_silk/]]\\
+*** [[http://pjmnc.free.fr/synthi/C_code.png][/C\_code/]]\\
+*** [[http://pjmnc.free.fr/synthi/C_PCB.bmp][/C\_PCB/]]\\
 ** ***b.o.m & calibration***\\
-** [[http://pjmnc.free.fr/synthi/bom.txt][/B.O.M/]]\\
-** [[http://pjmnc.free.fr/synthi/calibrage.txt][/calibration/]]\\
+*** [[http://pjmnc.free.fr/synthi/bom.txt][/B.O.M/]]\\
+*** [[http://pjmnc.free.fr/synthi/calibrage.txt][/calibration/]]\\
 ** ***schem\_A***\\
-** [[http://pjmnc.free.fr/synthi/schema/A_S1_main_pwr.png][/main
-power/]]\\
-** [[http://pjmnc.free.fr/synthi/schema/A_S2_pwr.png][/power +12v/-9v
-/]]\\
-** [[http://pjmnc.free.fr/synthi/schema/A_S3_op1_2.png][/output
-1&2/]]\\
-** [[http://pjmnc.free.fr/synthi/schema/A_S4_reverb.png][/reverb/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/A_S1_main_pwr.png][/main
+ power/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/A_S2_pwr.png][/power +12v/-9v
+ /]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/A_S3_op1_2.png][/output
+ 1&2/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/A_S4_reverb.png][/reverb/]]\\
 ** ***schem\_B***\\
-** [[http://pjmnc.free.fr/synthi/schema/B_S1_EG.png][/eg/]]\\
-** [[http://pjmnc.free.fr/synthi/schema/B_S2_filter.png][/filter/]]\\
-** [[http://pjmnc.free.fr/synthi/schema/B_S3_rm.png][/ringmod/]]\\
-** [[http://pjmnc.free.fr/synthi/schema/B_S4_ip.png][/input/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/B_S1_EG.png][/eg/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/B_S2_filter.png][/filter/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/B_S3_rm.png][/ringmod/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/B_S4_ip.png][/input/]]\\
 ** ***schem\_C***\\
-** [[http://pjmnc.free.fr/synthi/schema/C_S1_osc1.png][/OSC1/]]\\
-** [[http://pjmnc.free.fr/synthi/schema/C_S2_osc2.png][/OSC2/]]\\
-** [[http://pjmnc.free.fr/synthi/schema/C_S3_osc3.png][/OSC3/]]\\
-** [[http://pjmnc.free.fr/synthi/schema/C_S4_nz.png][/noise/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/C_S1_osc1.png][/OSC1/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/C_S2_osc2.png][/OSC2/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/C_S3_osc3.png][/OSC3/]]\\
+*** [[http://pjmnc.free.fr/synthi/schema/C_S4_nz.png][/noise/]]\\
 ** ***mods***\\
-** [[http://pjmnc.free.fr/synthi/vc_&_tz_silk.png][/vc reponse &
-trapezoid invertor silk/]]\\
-** [[http://pjmnc.free.fr/synthi/vc_&_tz_PCB.bmp][/vc reponse &
-trapezoid invertor PCB/]]\\
-** [[http://pjmnc.free.fr/synthi/vc_&_tz_schm.bmp][/vc reponse &
-trapezoid invertor schematic/]]\\
-** [[http://pjmnc.free.fr/synthi/new_reverb_silk.png][/new reverb
-silk/]]\\
-** [[http://pjmnc.free.fr/synthi/new_reverb_PCB.bmp][/new reverb
-PCB/]]\\
-** [[http://pjmnc.free.fr/synthi/new_reverb_schm.PNG][/new reverb
-schematic/]]\\
+*** [[http://pjmnc.free.fr/synthi/vc_&_tz_silk.png][/vc reponse & trapezoid invertor silk/]]\\
+*** [[http://pjmnc.free.fr/synthi/vc_&_tz_PCB.bmp][/vc reponse & trapezoid invertor PCB/]]\\
+*** [[http://pjmnc.free.fr/synthi/vc_&_tz_schm.bmp][/vc reponse & trapezoid invertor schematic/]]\\
+*** [[http://pjmnc.free.fr/synthi/new_reverb_silk.png][/new reverb silk/]]\\
+*** [[http://pjmnc.free.fr/synthi/new_reverb_PCB.bmp][/new reverb PCB/]]\\
+*** [[http://pjmnc.free.fr/synthi/new_reverb_schm.PNG][/new reverb schematic/]]\\
 ** ***matrix & 3D***\\
-** [[http://pjmnc.free.fr/synthi/matrix/pin_cap_2.5mm.stl.zip][/pin
-matrix cap jack 2.5mm STL/]]\\
-** [[http://pjmnc.free.fr/synthi/matrix/coupe.PNG][/pin matrix cap jack
-2.5mm PNG/]]\\
-** [[http://pjmnc.free.fr/synthi/matrix/M3_15mm_0.5_synthi.PNG][/M3\_15mm\_0.5\_plastic\_bolt
-PNG/]]\\
-** [[http://pjmnc.free.fr/synthi/matrix/M3_15mm_0.5_synthi.stl.zip][/M3\_15mm\_0.5
-STL/]]\\
-** [[http://pjmnc.free.fr/synthi/matrix/support_matrix.PNG][/gabarit
-matrix PNG/]]\\
-** [[http://pjmnc.free.fr/synthi/matrix/20_support%20matrix_3mm.zip][/gabarit
-matrix STL/]]\\
-\\
+*** [[http://pjmnc.free.fr/synthi/matrix/pin_cap_2.5mm.stl.zip][/pin matrix cap jack 2.5mm STL/]]\\
+*** [[http://pjmnc.free.fr/synthi/matrix/coupe.PNG][/pin matrix cap jack 2.5mm PNG/]]\\
+*** [[http://pjmnc.free.fr/synthi/matrix/M3_15mm_0.5_synthi.PNG][/M3\_15mm\_0.5\_plastic\_bolt PNG/]]\\
+*** [[http://pjmnc.free.fr/synthi/matrix/M3_15mm_0.5_synthi.stl.zip][/M3\_15mm\_0.5 STL/]]\\
+*** [[http://pjmnc.free.fr/synthi/matrix/support_matrix.PNG][/gabarit matrix PNG/]]\\
+*** [[http://pjmnc.free.fr/synthi/matrix/20_support%20matrix_3mm.zip][/gabarit matrix STL/]]\\
 ** ***autres***\\
 ** ***synthi MIDI***
-[[http://pjmnc.free.fr/files/midiCVsynthi.zip][synthi\_AKS.zip]].....Synthi
-AKS midi or CV project.....(schematic + code)
-[[http://pjmnc.free.fr/files/cvSynthi_4725.JPG][/schematic/-]]
-[[http://pjmnc.free.fr/files/synthiModule.jpg][/module/]]\\
+   [[http://pjmnc.free.fr/files/midiCVsynthi.zip][synthi\_AKS.zip]].....Synthi AKS midi or CV project.....(schematic + code)
+[[http://pjmnc.free.fr/files/cvSynthi_4725.JPG][/schematic/-]][[http://pjmnc.free.fr/files/synthiModule.jpg][/module/]]\\
 ** ***KS to eurorack***
-[[http://pjmnc.free.fr/files/aks2cv.JPG][synthi\_KS.jpg]].....Synthi
-Keyboard --> CV/GATE eurorack 1v/oct.....(schematic)\\
+   [[http://pjmnc.free.fr/files/aks2cv.JPG][synthi\_KS.jpg]].....Synthi Keyboard --> CV/GATE eurorack 1v/oct.....(schematic)\\
 ** ***midi et ks IMG***
-[[http://pjmnc.free.fr/files/synthiModRecap.JPG][AKS\_modules.jpg]].....Synthi
-AKS Modules.....RECAP\\
+   [[http://pjmnc.free.fr/files/synthiModRecap.JPG][AKS\_modules.jpg]].....Synthi AKS Modules.....RECAP\\
 ** ***pin matrix mod***
-[[http://pjmnc.free.fr/files/pin_matrix_switch.JPG][synthi\_Pins.jpg]].....Synthi
-Pins Matrix switch.....(schematic)\\
+   [[http://pjmnc.free.fr/files/pin_matrix_switch.JPG][synthi\_Pins.jpg]].....Synthi Pins Matrix switch.....(schematic)\\
 ** ***presto patch interface***
 [[http://pjmnc.free.fr/files/synthi_presto.JPG][synthi\_presto\_patch.jpg]].....Synthi
 mods presto <---> eurorack.....(schematic)
