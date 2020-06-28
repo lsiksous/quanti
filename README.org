@@ -4,7 +4,7 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
 # #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
 
-#+title: Synth-X
+#+title: Quanti
 
 * Specifications
   [[http://pjmnc.free.fr/synthi/cable.bmp][/wiring/]]\\
