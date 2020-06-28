@@ -1,9 +1,9 @@
 #+PROPERTY: Effort_ALL 2d 5d 10d 20d 30d 35d 50d
 #+COLUMNS: %70ITEM(Task) %Effort
 
-#+TITLE: Synth-X Project Plan
+#+TITLE: Quanti Project Plan
 
-* Synth-X                                               :taskjuggler_project:
+* Quanti                                                :taskjuggler_project:
 ** Specification
 *** A
 *** B
